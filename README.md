@@ -1,3 +1,3 @@
 # Logistic-Regression-Iris
 
-Using SKLearn dataset, I will form a Logisitc Regression from scracth to predict the values of the test dataset.
+I form a Logisitic Regression model from scratch to predict the values of the test dataset in the Iris dataset in SKLearn.
